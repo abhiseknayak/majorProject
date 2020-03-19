@@ -25,6 +25,7 @@ Zoomed image for less number of data points.
 Obviously the better one is for Fuzzy.
 
 ![Image description](https://github.com/abhiseknayak/majorProject/blob/refs/comparison-lstm-fuzzy.jpg)
+![test](https://github.com/abhiseknayak/majorProject/blob/refs/comparison-lstm-fuzzy.jpg =24x48)
 
 ## Android App:
 
