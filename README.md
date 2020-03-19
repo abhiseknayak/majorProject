@@ -24,18 +24,18 @@ Here is a comparison chart between LSTM and fuzzy logic.
 Zoomed image for less number of data points.
 Obviously the better one is for Fuzzy.
 
-<img src="https://github.com/abhiseknayak/majorProject/blob/refs/comparison-lstm-fuzzy.jpg" width="500" height="300">
+<img src="https://github.com/abhiseknayak/majorProject/blob/refs/comparison-lstm-fuzzy.jpg">
 
 ## Android App:
 
 Current Android App is prototype showing predicted graph for oil price of a certain region based on mobile location.
 
 Here is the potrait view.
-<img src="https://github.com/abhiseknayak/majorProject/blob/refs/potrait1.jpeg" width="500" height="300">
+<img src="https://github.com/abhiseknayak/majorProject/blob/refs/potrait1.jpeg">
 
 
 Here is the landescape view.
-<img src="https://github.com/abhiseknayak/majorProject/blob/refs/landescape2.jpeg" width="500" height="300">
+<img src="https://github.com/abhiseknayak/majorProject/blob/refs/landescape2.jpeg">
 
 Plan to apply the same for multiple entities that can provide rough estimates of the expenses near you.
 
