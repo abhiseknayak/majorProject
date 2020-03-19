@@ -20,7 +20,9 @@ For new values through that rules determine news values.
 
 Reference: https://pypi.org/project/pyFTS/
 
-Here is a comparison chart between LSTM and fuzzy logic
+Here is a comparison chart between LSTM and fuzzy logic. 
+Zoomed image for less number of data points.
+Obviously the better one is for Fuzzy.
 
 ![Image description](https://github.com/abhiseknayak/majorProject/blob/refs/comparison-lstm-fuzzy.jpg)
 
